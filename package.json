@@ -1,0 +1,10 @@
+{
+  "name": "aura-assistant",
+  "version": "1.0.0",
+  "description": "Backend auxiliar para o Assistente guiado Aura",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
